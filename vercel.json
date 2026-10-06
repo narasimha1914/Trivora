@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/TRIVORA_website.html"
+    }
+  ]
+}
